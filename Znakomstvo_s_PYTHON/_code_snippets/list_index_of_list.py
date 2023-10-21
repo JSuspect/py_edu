@@ -12,4 +12,3 @@ print(indexes)
 food = ['rice', 'beans', 'rice', 'beans', 'rice', 'beans']
 indexes = [i for i in range(len(food))]
 print(indexes)
-
